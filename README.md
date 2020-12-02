@@ -15,9 +15,6 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=akirataguchi115">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirataguchi115" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=akirataguchi115">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirataguchi115" />
-</a>
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@7fae6b99-9f71-4f2a-9af3-3ea4c2d060eb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@7fae6b99-9f71-4f2a-9af3-3ea4c2d060eb" />
 </a>
