@@ -35,7 +35,6 @@
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)]()
 [![PyCharm](https://img.shields.io/badge/PyCharm-ebe534?style=for-the-badge&logo=pycharm&logoColor=black)]()
 [![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=5DD1F5)]()
-[![TypeScript](https://img.shields.io/badge/Typescript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=white)]()
 [![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=whit)]()
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
