@@ -45,7 +45,7 @@
 <summary>:mailbox: <b>Socials</b></summary>
 <p>
 
-<a href="https://twitter.com/akiratviit" target="_blank" href="https://twitter.com/TrustedMercury">
+<a href="https://twitter.com/akiratviit" target="_blank" href="https://twitter.com/akiratviit">
   <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </p>
