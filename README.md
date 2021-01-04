@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on almost anything I'd be interested in
 - 🤔 I’m looking for help with everyday shortcuts with any program
 - 💬 Ask me about virtualization technology or the academic field of computer science
-- 📫 How to reach me: mynamabitchiro#4673 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() 
+- 📫 How to reach me: mynamabitchiro#4673 (Discord)
 - 😄 Pronouns: He/Him though They/Them is more than fine too
 - ⚡ Fun fact: We will never know when we're dead
 
