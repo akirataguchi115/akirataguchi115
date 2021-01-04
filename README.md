@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on probably some dumb yet meaningful project
-- 🌱 I’m currently studying computer science in the [university of Helsinki](https://www.helsinki.fi/en/computer-science)
+- 🌱 I’m currently studying computer science in the [University of Helsinki](https://www.helsinki.fi/en/computer-science)
 - 👯 I’m looking to collaborate on almost anything I'd be interested in
 - 🤔 I’m looking for help with everyday shortcuts with any program
 - 💬 Ask me about virtualization technology or the academic field of computer science
