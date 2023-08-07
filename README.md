@@ -7,7 +7,7 @@ A few interesting projects I have on my sights:
 
 - My company - World's first copyleft software company
 - PhD - Focus on the academic aspect of free/libre software
-- Global Discord Game SDK
+- Global Discord GameSDK
 - Steam alternative so good people will refer Steam as an alternative
 
 GPG Key: I wish I had one
@@ -15,3 +15,5 @@ GPG Key: I wish I had one
 Generally you can find me on many places with my full name Akira Taguchi.
 
 I also have a GitHub Sponsors page, but you are honestly much better off sponsoring other people working on great software projects.
+
+<!-- and yes i literally downloaded 5k+ repositories on bare metal. on windows. my defender was angry. -->
