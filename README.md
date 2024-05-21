@@ -5,8 +5,8 @@ I write documentation, create issues and code small programs that are actually u
 
 A few interesting projects I have on my sights:
 
+- Master's thesis - SLR on PCLs in software engineering
 - A Hacker Company - World's first copyleft software company
-- Master's thesis - An agile approach to software license
 - Global Discord GameSDK
 - Steam alternative so good people will refer Steam as an alternative
 
