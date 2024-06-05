@@ -1,5 +1,5 @@
 ### Hiii~! <3
-I'm interested in copyleftism, free software and open source, in that order.
+I'm interested in copyleft, free software and open source, in that order.
 
 I write documentation, create issues and code small programs that are actually useful.
 
