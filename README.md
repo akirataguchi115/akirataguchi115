@@ -5,10 +5,9 @@ I write documentation, create issues and code small programs that are actually u
 
 A few interesting projects I have on my sights:
 
-- Master's thesis - SLR on PCLs in software engineering
+- Master's thesis - SLR on open source licenses in software engineering
 - A Hacker Company - World's first copyleft software company
-- Global Discord GameSDK
-- Steam alternative so good people will refer Steam as an alternative
+- Publishing my first O'Reilly technical book
 
 GPG Key: `54A8 D3B9 3222 3204 9CFC 1591 3B2D 39B6 0BC1 A33D`
 
