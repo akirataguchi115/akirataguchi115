@@ -5,7 +5,7 @@ I write documentation, create issues and code small programs that are actually u
 
 A few interesting projects I have on my sights:
 
-- Master's thesis - SLR on open source licenses in software engineering
+- Master's thesis - A multivocal literature review on open source licenses in software engineering
 - A Hacker Company - World's first copyleft software company
 - Publishing my first O'Reilly technical book
 
