@@ -9,7 +9,9 @@ A few interesting projects I have on my sights:
 - A Hacker Company - World's first copyleft software company
 - Publishing my first O'Reilly technical book
 
-GPG Key: `54A8 D3B9 3222 3204 9CFC 1591 3B2D 39B6 0BC1 A33D`
+PGP fingerprint: `54A8 D3B9 3222 3204 9CFC 1591 3B2D 39B6 0BC1 A33D`
+
+PGP public key (ASCII): [public.pgp](https://raw.githubusercontent.com/akirataguchi115/akirataguchi115/refs/heads/main/public.pgp)
 
 Generally you can find me on many places with my full name Akira Taguchi.
 
