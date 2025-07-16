@@ -13,6 +13,8 @@ PGP fingerprint: `54A8 D3B9 3222 3204 9CFC 1591 3B2D 39B6 0BC1 A33D`
 
 PGP public key (ASCII): [public.pgp](https://raw.githubusercontent.com/akirataguchi115/akirataguchi115/refs/heads/main/public.pgp)
 
+Nostr public key: `npub1uasaxz2fpdj502dh44vnk9y4na8mn59fvemquqp92sq4ypetl2pquw49a2`
+
 Generally you can find me on many places with my full name Akira Taguchi.
 
 I also have a GitHub Sponsors page, but you are honestly much better off sponsoring other people working on great software projects.
